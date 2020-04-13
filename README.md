@@ -1,5 +1,7 @@
 <html>
-<style>
+<title>The Indian Airforce</title>
+<h1>Kargil hero MiG-27 will take to sky one last time Friday, IAF squadron strength to go down</h1>
+  <style>
 body {
   color: blue;
 }
@@ -8,8 +10,6 @@ h1 {
   color: green;
 }
 </style>
-<title>The Indian Airforce</title>
-<h1>Kargil hero MiG-27 will take to sky one last time Friday, IAF squadron strength to go down</h1>
 <body>
 <p>
 New Delhi: The Indian Air Force’s strength is set to come down to just 28 squadrons of fighters as against a sanctioned 42, with the last of the remaining MiG-27 aircraft, heroes of the Kargil battle, flying their final sortie Friday in Jodhpur before retiring from service.
