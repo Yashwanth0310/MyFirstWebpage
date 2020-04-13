@@ -5,6 +5,9 @@
 body {
   color: blue;
 }
+body {
+background-color: black;
+}
 
 h1 {
   color: green;
