@@ -1,6 +1,15 @@
 # MyFirstWebpage
 MYSPACE Webpage
 <html>
+ <style>
+   body {
+  color: blue;
+}
+h1 {
+  color: green;
+}
+</html>
+  </style
 <title>The Indian Airforce</title>
 <h1>Kargil hero MiG-27 will take to sky one last time Friday, IAF squadron strength to go down</h1>
 <body>
@@ -18,12 +27,5 @@ The <abbr title="INDIAN AIRFORCE">IAF</abbr> was founded in 1917
   <a href="hello.html">loveme</a> |
   <a href="loveme.html">hello</a>
 </nav>
-body {
-  color: blue;
-}
 
-h1 {
-  color: green;
-}
-</html>
 
