@@ -22,7 +22,7 @@ The <abbr title="INDIAN AIRFORCE">IAF</abbr> was founded in 1917
 <img src="download.jpg" alt="MIG 27 Aircraft" height="200" width="200">
 </body>
 <nav>
-  <a href="hello.html">loveme</a> |
-  <a href="loveme.html">hello</a>
+  <a href="hello.html">hello</a> |
+  <a href="loveme.html">loveme</a>
 </nav>
 </html>
